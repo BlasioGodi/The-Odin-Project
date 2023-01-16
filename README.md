@@ -10,8 +10,8 @@
 <p>Projects completed whilst working on this course</p>
 
 - <b>Intermediate HTML & CSS Projects</b>
-  - [Project - Signup Form](https://github.com/BlasioGodi/Admin-Dashboard)
-  - [Project - Admin Dashboard](https://github.com/BlasioGodi/C-Sharp-Basics)
+  - [Project - Signup Form](https://github.com/BlasioGodi/Sign-up-form)
+  - [Project - Admin Dashboard](https://github.com/BlasioGodi/Admin-Dashboard)
   
 - <b>JavaScript Projects</b>
-  - [Project - Library App](https://github.com/BlasioGodi/Java-Basics)
+  - [Project - Library App](https://github.com/BlasioGodi/Library-App)
