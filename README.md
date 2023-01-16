@@ -5,7 +5,7 @@
 - Fundamentals - Introduction to the general aspects of Web-development
 - Intermediate HTML and CSS - Diving deep into the workings of HTML and CSS, boilerplate structure, working with forms and other aspects.
 - JavaScript - Basic to Advanced.
-- NodeJS.
+- NodeJS - Back-end Design using NodeJS.
 
 <p>Projects completed whilst working on this course</p>
 
