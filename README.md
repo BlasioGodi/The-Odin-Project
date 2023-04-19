@@ -15,3 +15,4 @@
   
 - <b>JavaScript Projects</b>
   - [Project - Library App](https://github.com/BlasioGodi/Library-App)
+  - [Project - Tic Tac Toe](https://github.com/BlasioGodi/Tic-Tac-Toe)
